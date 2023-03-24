@@ -12,7 +12,7 @@ public class Login extends JFrame implements ActionListener{
     Choice logginin;
     Login() {
         super("Login Page");
-        getContentPane().setBackground(Color.WHITE);
+        getContentPane().setBackground(Color.gray);
         setLayout(null);
         
         JLabel lblusername = new JLabel("Username");

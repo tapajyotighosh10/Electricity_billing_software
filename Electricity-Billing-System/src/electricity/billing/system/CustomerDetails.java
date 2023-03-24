@@ -2,9 +2,13 @@ package electricity.billing.system;
 
 import java.awt.*;
 import javax.swing.*;
-import java.sql.*;
+
 import net.proteanit.sql.DbUtils;
+
+import java.sql.*;
+//import net.proteanit.sql.DbUtils;
 import java.awt.event.*;
+
 
 public class CustomerDetails extends JFrame implements ActionListener{
 

@@ -2,7 +2,6 @@ package electricity.billing.system;
 
 import javax.swing.*;
 import java.awt.*;
-
 public class Splash extends JFrame implements Runnable {
     Thread t;
     Splash() {
